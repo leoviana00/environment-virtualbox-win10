@@ -70,7 +70,10 @@ vagrant destroy -f
 
 ## 🙇 Referências
 
-- 
+- https://dev.to/sannae/setting-up-windows-virtual-test-environments-with-vagrant-4k1b
+- https://developer.hashicorp.com/vagrant/docs/vagrantfile/machine_settings
+- https://developer.hashicorp.com/vagrant/docs/providers/virtualbox/configuration
+- https://gist.github.com/landonb/f1639d9a2c9a764831bde51f48ea05f4
 
 ## Test Net Connection
 
